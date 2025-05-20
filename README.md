@@ -9,26 +9,6 @@
 
 ##
 
-## 📊 GitHub Stats  
-
-| **Metric**               | **Value**       |
-|--------------------------|-----------------|
-| Total Stars Earned       | 8              |
-| Total Commits (2025)     | 112            |
-| Total PRs                | 0              |
-| Total Issues             | 0              |
-| Contributed to (last year)| 0              |
-
----  
-
-## 💻 Most Used Languages  
-
-- PHP 32.24%  
-- HTML 30.78%  
-- JavaScript 19.64%  
-- CSS 17.35%  
-
----  
 
 ## 🌐 Conecte-se comigo  
 
