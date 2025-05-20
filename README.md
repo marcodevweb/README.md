@@ -4,12 +4,7 @@
 
 
 <div>
-  <a href="https://www.instagram.com/marcoborgesdev/?hl=pt-br">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoborgesdevweb&count_private=true&theme=shadow_red&show_icons=true)](https://github.com/marcoborgesdevweb/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoborgesdevweb&layout=compact&theme=shadow_red">
-  </a>
-</div>
-
+ 
 
 
 ##
